@@ -9,20 +9,16 @@ The dataset consists of five different categories of cloth images. These categor
 ## Results:
 Sample results for lower body cloths:
 
-| Measurement         |           | Skirt      | % Accuracy | Pants      | % Accuracy |
-|---------------------|-----------|------------|------------|------------|------------|
-|                     |           | Mean(n=10) |            | Mean(n=10) |            |
-| Length              | Manual    | 68.4       | 97.4       | 92.5       | 99.8       |
-|                     | Automatic | 71         |            | 92.7       |            |
-| Waist Circumference | Manual    | 51         | 98         | 54         | 96.6       |
-|                     | Automatic | 53         |            | 57.4       |            |
-| Trouser Hem         | Manual    | -          | -          | 34         | 95.4       |
-|                     | Automatic | -          |            | 38.6       |            |
-| Hem Circumference   | Manual    | 84         | 90         | -          | -          |
-|                     | Automatic | 94         |            | -          |            |
-| Hips Circumference  | Manual    | 77         | 98.2       | 100.5      | 96.5       |
-|                     | Automatic | 75.2       |            | 104        |            |
-| Mean Accuracy       |           |            | 95.9       |            | 97         |
+|                     | Skirt      | Pants      |
+|---------------------|------------|------------|
+| Measurement         | % Accuracy | % Accuracy |
+|                     |            |            |
+| Length              | 97.4       | 99.8       |
+| Waist Circumference | 98         | 96.6       |
+| Trouser Hem         | -          | 95.4       |
+| Hem Circumference   | 90         | -          |
+| Hips Circumference  | 98.2       | 96.5       |
+| Mean Accuracy       | 95.9       | 97         |
 
 ## Project Development phase:
 
