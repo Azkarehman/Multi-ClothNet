@@ -4,11 +4,11 @@ In this study, we design a set of equipment to capture images of clothes of any 
 
 As shown in the image, in this pipeline, we utilized multitask semi-supervised network, that uses adversarial autoencoder to encode the useful features. These features are further utilized for landmark detection (main task) and segmentation (auxiliary task).
 
-![Complete pipeline](https://github.com/Azkarehman/Multi-ClothNet/blob/main/images/complete_mod.png|width=1000px)
+![Complete pipeline](https://github.com/Azkarehman/Multi-ClothNet/blob/main/images/complete_mod.png)
 
 ## Dataset
 The dataset consists of five different categories of cloth images. These categories include skirt, top, cardigan, pants, dress. This dataset is unique because it allows to convert measurements in pixels into measurements in physical length. Some example images are shown below:
-![Picture2.png](https://github.com/Azkarehman/Multi-ClothNet/blob/main/images/Picture2.png =250x250)
+![Picture2.png](https://github.com/Azkarehman/Multi-ClothNet/blob/main/images/Picture2.png)
 
 ## Results:
 Sample results for lower body cloths:
