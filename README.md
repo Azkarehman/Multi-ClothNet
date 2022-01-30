@@ -8,7 +8,7 @@ As shown in the image, in this pipeline, we utilized multitask semi-supervised n
 
 ## Dataset
 The dataset consists of five different categories of cloth images. These categories include skirt, top, cardigan, pants, dress. This dataset is unique because it allows to convert measurements in pixels into measurements in physical length. Some example images are shown below:
-![Dataset](https://github.com/Azkarehman/Multi-ClothNet/blob/main/images/Picture2.png =250x250)
+![Picture2.png](https://github.com/Azkarehman/Multi-ClothNet/blob/main/images/Picture2.png =250x250)
 
 ## Results:
 Sample results for lower body cloths:
