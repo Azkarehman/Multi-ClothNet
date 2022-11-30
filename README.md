@@ -1,5 +1,7 @@
 # Multi-ClothNet: Automatic Cloth Size Measurement using Multitask Learning Based CNNs
 In this study, we design a set of equipment to capture images of clothes of any style and any color, and propose an automatic size measurement approach which consists of two steps (i.e., Landmarks localization and physical dimensions measurement).For landmarks detection, we propose a novel multitask learning based network which exploits the additional knowledge of cloth segmentation to optimize the learning for landmarks detection. We also propose a dataset **CDMD - Cloth Dimension Measurement Dataset ** that allows to convert measurements in pixels into measurements in physical length.
+
+This paper writing is under progress.
 ## Pipeline
 
 As shown in the image, in this pipeline, we utilized multitask semi-supervised network, that uses adversarial autoencoder to encode the useful features. These features are further utilized for landmark detection (main task) and segmentation (auxiliary task).
